@@ -19,10 +19,6 @@
         android:theme="@style/Theme.CountDistance"
         tools:targetApi="31">
 
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCRPr3I0khx8XZ9C9uen1GdZGjUyh5y_IQ" />
-
         <activity
             android:name=".MainActivity"
             android:exported="true">
